@@ -38,5 +38,38 @@ gotosocial_smtp_password: |
   hnmOFbCUjni5jjJiaV7KDw==
   =/+Xb
   -----END PGP MESSAGE-----
+matterbridge_discord_token: |
+  -----BEGIN PGP MESSAGE-----
+
+  hQGMA4Ji4hPirBfpAQv/UlfXXhJPFFXu5PP+NwH8xtRv5rQ0Gp0OQCchIsuy33Nx
+  4JyGGLJiCCAMA9Oyn0DJnxjPoZOfyfBbqPo0H8WAdQ82+A01nMURd/bGDb+eMXgF
+  kp0Thv0AR2TXIkYCVP77VRX+MDmvrp3DPSybmxEY7FuusMtJBQ/B1O0QyZC8RTUZ
+  EJ5lsJLidKAfAiy+bq5KUP4o/Rqb+8fInBzspBWYL7L12mpP1ScHIPNGQGvRuchQ
+  PPA8Zsy3ts62gPNI9BGKch/ANhv3UA7uNau7qUTtD5qs9COdbB8ueP+6xySjY79A
+  Nhdz/vgO7YXBrVYcqEqEBVpPJFlc9RYzuBuqJDmltejPMfSmjUSj+301U9GhSw3j
+  CCGzmObt1g2erCHjwQ+f6fkz9VgcRIT1fIpMC5LUTqJ8gI+nBcXapAtBZvSUEgZ4
+  UciW5NwRBbzN+4D79cCKxKeBvKnqT7UT8HEalZ5uz2X+ZGqAzwxxbR/MLuFXydzc
+  0oTjtiUxkH8jgU1voNTE0oIBP4OHp6cDe4q6zs3XrIfiRTluFoiZMBDwA5f1kO3l
+  OU7u3J0/+40TOlTNbzLa+9o9dad2MJhawV0KaZK24oHdJmBSvA5yE6cBmNzP0gSA
+  6KScPovsOudCaP7BXSQAUPmtcSBNV5J3g0DcxqUIEAONV5W8d5a3ezF8rXdedQER
+  x3pE
+  =Zclo
+  -----END PGP MESSAGE-----
+matterbridge_slack_token: |
+  -----BEGIN PGP MESSAGE-----
+
+  hQGMA4Ji4hPirBfpAQv9H9RA+1F/M9zfxYFkEPq7LvutUm/gBZFPDr3KXPwf7oEj
+  SalHox9nq6pxFeErSenkL9yoFvYgRXavfj8AHgYpiilmbNGe2bSkRLtdws0ZRcMV
+  oZaLdkXa0DiSxat75EmQSyblgZdz/wHQsDYazJFpAeC279gLMCQO9o/b4o7Kdl55
+  V+Ti6TPgyMMBM7zbhvadDDBucLk5az586QRMa30NeqvBRkfg/Jmawrgm7ldzAWBC
+  9DvvX6EhfBQhwCLZvbU4GvKKG/l9jJdzisk1/ptIZ5R845bPkWZZ+rCRb1M7ff/H
+  b1AJBRmEbuOtoVGSd2dYwTiK3gOfATFHoiiWX5kkAcqTJtQuNuQq76FhoYiIVzNQ
+  LRHljeclgD2IOKMnnwGUgpQoyhhufKmmjSRnXeN/9i0c1Lzzy6DBDexlPOKBe8c8
+  7ORwvNJrbySPxkgO0V5eFLRArXnbXDwKBc/EY8oDonTsCJhbzBNqQx631efypffX
+  c363Ig+g48uEAoecuQZ90nIBj3QRmuabXsNYcClMjI/ctVFrP+sIC1t9cD8yHbn6
+  gjc9Y52ZvDamk0ZZC5PL3EJ+4JwsoBxGJKbQLqF/LyuSe7RWgnS5v8UjxMNRm7GI
+  isJxhqNkMRimOB2IKW+IINnx3OEQ65mfbMlEIT9LAFQ386s=
+  =zRvp
+  -----END PGP MESSAGE-----
 
 matterbridge_version: 1.26.0
